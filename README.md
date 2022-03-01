@@ -9,9 +9,9 @@
   
   <div align="left">
   Este foi um desafio da devchallenge usando html e css para fazer uma página de login.<br>
-  O projeto está original neste <a href="https://github.com/lubomfim/work-plin">repositório</a>.<br>
+  O projeto está original neste <a href="https://github.com/magdielndantas/grab-pagina-de-login">repositório</a>.<br>
 Você pode conferir o resultado 
-<a href="#" target="_blank">clicando aqui</a>.
+<a href="https://ythiago03.github.io/grab-login-page/" target="_blank">clicando aqui</a>.
   (ainda finalizando)
    
 </div>
