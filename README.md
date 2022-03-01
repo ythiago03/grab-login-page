@@ -3,7 +3,7 @@
   <h3 align="center"Grab Login</h3>
   
   <div>
-  <img src="https://user-images.githubusercontent.com/92443688/154102768-e231f42a-ca4a-4412-89a9-91c4338fb521.jpg">
+  <img src="https://user-images.githubusercontent.com/92443688/156234143-f8bfcd98-6648-4e0d-bb8a-2dbb27e2ea5c.jpg">
   </div>
  <h2> Welcome :</h2>
   
@@ -11,6 +11,6 @@
   Este foi um desafio da devchallenge usando html e css para fazer uma página sobre um site de locação de co-work online.<br>
   O projeto está original neste <a href="https://github.com/lubomfim/work-plin">repositório</a>.<br>
 Você pode conferir o resultado 
-<a href="https://ythiago03.github.io/work-plin/" target="_blank">clicando aqui</a>.
+<a href="#" target="_blank">clicando aqui</a>.
   (ainda finalizando)
 </div>
