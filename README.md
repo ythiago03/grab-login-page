@@ -16,6 +16,8 @@
 - The idea of ​​the project is to build a login page as faithful as possible to the original template.
 - You can check the original project in <a href="https://github.com/magdielndantas/grab-pagina-de-login">this repository</a>
 - There's no funcionality of Login/Register, the buttons and the forms in the Login Screen are only for UI matters.
+- If you want to give me any tips or find a bug, feel free to contact me by my email: ythiagohcfidencio@gmail.com
+
 # Technologies
 
 To the following tools were used in the construction of the project:
