@@ -1,19 +1,29 @@
-<br />
+<h1 align="center">Grab Login Page</h1>
+
+<p align="center">This project was a challenge from devchallenge to create a login page.</p>
+
+<img src="https://user-images.githubusercontent.com/92443688/156234143-f8bfcd98-6648-4e0d-bb8a-2dbb27e2ea5c.jpg">
+
 <p align="center">
-  <h3 align="center"Grab Login</h3>
-  
-  <div>
-  <img src="https://user-images.githubusercontent.com/92443688/156234143-f8bfcd98-6648-4e0d-bb8a-2dbb27e2ea5c.jpg">
-  </div>
- <h2> Welcome :</h2>
-  
-  <div align="left">
-  Este foi um desafio da devchallenge usando html e css para fazer uma página de login.<br>
-  O projeto está original neste <a href="https://github.com/magdielndantas/grab-pagina-de-login">repositório</a>.<br>
-Você pode conferir o resultado 
-<a href="https://ythiago03.github.io/grab-login-page/" target="_blank">clicando aqui</a>.
-  (ainda finalizando)
-   
-</div>
+    <a href="#about">about</a> •
+    <a href="#technologies">technologies</a> •
+    <a href="#author">author</a> 
+</p>
 
+<h4 align="center">🚧  This project is 🚀 under construction . . .  🚧 </h4>
 
+# About
+- The idea of ​​the project is to build a login page as faithful as possible to the original template.
+- You can check the original project in <a href="https://github.com/magdielndantas/grab-pagina-de-login">this repository</a>
+- There's no funcionality of Login/Register, the buttons and the forms in the Login Screen are only for UI matters.
+# Technologies
+
+To the following tools were used in the construction of the project:
+
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML5</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS3</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>
+
+# Author
+
+Made with 💜 by Thiago Henrique ✨<a href="https://www.linkedin.com/in/thiago-fid%C3%AAncio-a24578224/">See my linkedin</a>
