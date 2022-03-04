@@ -92,6 +92,7 @@ body{
     background-color: #ffffff;
     font-size: 13pt;
     margin-top: 5px;
+    cursor:pointer;
 }
 .nav-left img{
     width: 177px;
